@@ -1,25 +1,8 @@
-![Image](ham.gif)
+![Hammock](ham.gif)
 
-Currently studying informatics at the University of Oslo. 
+Currently studying informatics at the University of Oslo.  
 
-### Markdown
+## Earlier Academic Investigations
+- **[The New York Liquor Authority + GWR](liquor.pdf)**: Examining liquor license demographics in the Lower East Side using Geographically Weighted Regression
+- [Who complains about rats?](rats.pdf): Using regression analysis to dive into NYC311's call logs to investigate rat sighting complaints 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
