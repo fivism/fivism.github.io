@@ -1,11 +1,11 @@
-[Back](fivis.net)
+[Back](/)
 
-# Digital media diet 
+## Digital media diet 
 Things I've seen or read lately worth editing this Markdown file for
 
-### 
 ### Books
 
+### Film & TV 
 
 
 *Inspired by kottke's ["My recent media diet" posts](http://kottke.org/tag/media%20diet)* 
