@@ -1,6 +1,6 @@
 ![Hammock](ham.gif)
 
-Currently studying informatics at the University of Oslo. I am a New York transplant always looking for ways to explore Oslo through a data-based lens.
+Currently studying informatics at the University of Oslo.
 
 ### Earlier Academic Investigations
 - **[The New York Liquor Authority + GWR](files/liquor.pdf)**: Examining liquor license demographics in the Lower East Side using Geographically Weighted Regression
