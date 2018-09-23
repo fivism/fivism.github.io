@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Michael Fivis
 description: Student at UiO
+gems:
+    - jekyll-last-modified-at
