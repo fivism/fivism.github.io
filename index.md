@@ -12,7 +12,7 @@ Currently studying informatics at the University of Oslo.
 - **[How our housing choices make adult friendships more difficult](https://www.vox.com/2015/10/28/9622920/housing-adult-friendship)** - David Roberts summarizing our fuzzy understanding of how American housing choices may affect how we relate to one another.
 
 ### Oslo sandwiches I eat often
-- ~~Ma Poule's~~ NOW: [Galopin](https://mathallenoslo.no/butikk/galopin/) - Pulled Duck Baguette 
+- ~~Ma Poule's~~ NOW: **[Galopin](https://mathallenoslo.no/butikk/galopin/)** - Pulled Duck Baguette 
 - **[O. Fjelberg](https://goo.gl/maps/huKLdWvD6Wt)** - Crawfish/Smoked Salmon Baguette
 - **[Max](https://goo.gl/maps/QFWQ2LGEdX92)** - The Halloumi Burger
 - **[Crow Bryggeri](https://goo.gl/maps/k4QLEkA82Tr)** - Falafel kebab at the 2nd floor snack window 
