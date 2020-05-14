@@ -1,7 +1,5 @@
 ![Hammock](ham.gif)
 
-Software Engineer @ Cisco
-
 ### Recent writing I love
 - **[Uncanny Valley](https://nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/)** - Anna Wiener on what it means to be 'in it' in 2016 Silicon Valley
 - **[A New Citizen Decides to Leave the Tumult of Trump's America](https://www.newyorker.com/magazine/2018/08/20/a-new-citizen-decides-to-leave-the-tumult-of-trumps-america)** - New Yorker Rebecca Mead on the practicalities and purpose of pursuing American citizenship as a European
