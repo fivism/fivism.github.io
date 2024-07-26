@@ -13,33 +13,23 @@
 - **[A New Citizen Decides to Leave the Tumult of Trump's America](https://www.newyorker.com/magazine/2018/08/20/a-new-citizen-decides-to-leave-the-tumult-of-trumps-america)** - New Yorker Rebecca Mead on the practicalities and purpose of pursuing American citizenship as a European
 - **[My Restaurant Was My Life for 20 Years. Does the World Need It Anymore?](https://www.nytimes.com/2020/04/23/magazine/closing-prune-restaurant-covid.html)** - Gabrielle Hamilton contemplates Prune's place in today's East Village
 
-### Worthwhile books
+### Worthwhile literature
 #### 2024
-The Vegetarian by Han Kang
-
-The Overstory by Richard Powers
-
-The Bee Sting by Paul Murray
-
-Stay True by Hua Hsu
+- The Vegetarian by Han Kang
+- The Overstory by Richard Powers
+- The Bee Sting by Paul Murray
+- Stay True by Hua Hsu
 
 #### 2023
-Severance by Ling Ma
-
-Reunion by Fred Uhlman
-
-Crossroads by Jonathan Franzen
-
-Sea State by Tabitha Lasley
-
-Crying in H Mart by Michelle Zauner
+- Severance by Ling Ma
+- Reunion by Fred Uhlman
+- Crossroads by Jonathan Franzen
+- Sea State by Tabitha Lasley
+- Crying in H Mart by Michelle Zauner
 
 #### 2022
-The Most Fun We Ever Had by Claire Lombardo
-
-Exit West by Mohsin Hamid
-
-A Children's Bible by Lydia Millet
-
-The Topeka School by Ben Lerner
+- The Most Fun We Ever Had by Claire Lombardo
+- Exit West by Mohsin Hamid
+- A Children's Bible by Lydia Millet
+- The Topeka School by Ben Lerner
 
