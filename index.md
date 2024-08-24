@@ -15,6 +15,7 @@
 
 ### Worthwhile literature
 #### 2024
+- Long Island Compromise by Taffy Brodesser-Akner
 - The Vegetarian by Han Kang
 - The Overstory by Richard Powers
 - The Bee Sting by Paul Murray
