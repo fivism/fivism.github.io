@@ -15,6 +15,7 @@
 
 ### Worthwhile literature
 #### 2024
+- All Fours by Miranda July
 - Long Island Compromise by Taffy Brodesser-Akner
 - The Vegetarian by Han Kang
 - The Overstory by Richard Powers
