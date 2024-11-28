@@ -4,7 +4,7 @@
 - ~~Ma Poule's~~ NOW: **[Galopin](https://mathallenoslo.no/butikk/galopin/)** - Pulled Duck Baguette 
 - **[O. Fjelberg](https://goo.gl/maps/huKLdWvD6Wt)** - Crawfish/Smoked Salmon Baguette
 - **[Max](https://goo.gl/maps/QFWQ2LGEdX92)** - The Halloumi Burger
-- **[Crow Bryggeri](https://goo.gl/maps/k4QLEkA82Tr)** - Falafel kebab at the 2nd floor snack window 
+- **[FALAFEL n' JUICE](https://maps.app.goo.gl/Btc6munbGZ5fy6hR6)** - Rich falafel wraps with a simple fresh juice menu 
 - **[JØNK](https://maps.app.goo.gl/NKg9xnYYjoJjX6Ae7)** - Zero nonsense, messy smashburgers with great brioche buns 
 
 ### Recent writing I love
