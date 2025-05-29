@@ -14,6 +14,9 @@
 - **[My Restaurant Was My Life for 20 Years. Does the World Need It Anymore?](https://www.nytimes.com/2020/04/23/magazine/closing-prune-restaurant-covid.html)** - Gabrielle Hamilton contemplates Prune's place in today's East Village
 
 ### Worthwhile literature
+#### 2025
+- Rejection by Tony Tulathimutte
+
 #### 2024
 - All Fours by Miranda July
 - Long Island Compromise by Taffy Brodesser-Akner
