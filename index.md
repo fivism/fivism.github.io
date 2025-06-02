@@ -16,6 +16,7 @@
 ### Worthwhile literature
 #### 2025
 - Rejection by Tony Tulathimutte
+- Time Shelter by Georgi Gospodinov
 
 #### 2024
 - All Fours by Miranda July
