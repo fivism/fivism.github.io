@@ -15,7 +15,7 @@
 
 ### Worthwhile literature
 #### 2025
-- Small Things Like These - Claire Keegan
+- Small Things Like These by Claire Keegan
 - Rejection by Tony Tulathimutte
 - Time Shelter by Georgi Gospodinov
 
