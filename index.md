@@ -15,6 +15,7 @@
 
 ### Worthwhile literature
 #### 2025
+- They Thought They Were Free by Milton Mayer 
 - Small Things Like These by Claire Keegan
 - Rejection by Tony Tulathimutte
 - Time Shelter by Georgi Gospodinov
