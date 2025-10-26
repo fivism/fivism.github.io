@@ -40,4 +40,4 @@
 - Exit West by Mohsin Hamid
 - A Children's Bible by Lydia Millet
 - The Topeka School by Ben Lerner
-
+- Sweat by Lynn Nottage
