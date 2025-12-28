@@ -19,6 +19,7 @@
 - Small Things Like These by Claire Keegan
 - Rejection by Tony Tulathimutte
 - Time Shelter by Georgi Gospodinov
+- Burn by Peter Heller
 
 #### 2024
 - All Fours by Miranda July
