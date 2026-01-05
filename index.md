@@ -14,6 +14,9 @@
 - **[My Restaurant Was My Life for 20 Years. Does the World Need It Anymore?](https://www.nytimes.com/2020/04/23/magazine/closing-prune-restaurant-covid.html)** - Gabrielle Hamilton contemplates Prune's place in today's East Village
 
 ### Worthwhile literature
+#### 2026
+- Bonding by Mariel Franklin
+
 #### 2025
 - They Thought They Were Free by Milton Mayer 
 - Small Things Like These by Claire Keegan
