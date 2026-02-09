@@ -16,6 +16,7 @@
 ### Worthwhile literature
 #### 2026
 - Bonding by Mariel Franklin
+- Flesh by David Szalay
 
 #### 2025
 - They Thought They Were Free by Milton Mayer 
