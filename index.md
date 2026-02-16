@@ -19,6 +19,8 @@
 - Flesh by David Szalay
 
 #### 2025
+<!-- Mine fem år som far by Bjarte Breiteig -->
+<!-- Det Kinesiske Rommet by Jan Grue -->
 - They Thought They Were Free by Milton Mayer 
 - Small Things Like These by Claire Keegan
 - Rejection by Tony Tulathimutte
