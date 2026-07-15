@@ -17,6 +17,9 @@
 #### 2026
 - Bonding by Mariel Franklin
 - Flesh by David Szalay
+- Transcription by Ben Lerner 
+<!-- Fars rygg by Niels Fredrik Dahl -->
+
 
 #### 2025
 <!-- Mine fem år som far by Bjarte Breiteig -->
